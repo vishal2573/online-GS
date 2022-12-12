@@ -1,0 +1,42 @@
+.back{
+    position: fixed;
+    width: 790px;
+    height: 700px;
+    left: 325px;
+    top: 90px;
+    background: #EDEFEF;
+    border-radius: 50px;
+}
+.postion{
+    font-size: medium;
+    padding-left: 210px;
+    margin-top: 200px;
+}
+.input-field{
+    padding: 10px;
+    width: 50%;
+    background: black;
+    opacity: 1;
+    font-family: 'Montserrat';
+    font-style: normal;
+    color:white;
+    font-size: large;
+    border-radius: 15px 20px;
+}
+.forgotbutton{
+    font-family: 'Montserrat';
+    font-style: normal;
+    background-color: #22A6F0;
+    color: white;
+    margin-left: 20px;
+    padding: 15px 20px;
+    border: none;
+    cursor: pointer;
+    width: 50%;
+    opacity: 0.9;
+    border-radius: 15px 20px;
+}
+.forgotbutton:hover{
+    background-color: steelblue;
+    opacity: 1;
+}
